@@ -1,0 +1,6 @@
+train: /Users/aloza/Documents/personal_code/deep_learning/project/datasets//yolo_data/images/train
+val: /Users/aloza/Documents/personal_code/deep_learning/project/datasets//yolo_data/images/valid
+
+nc: 4
+
+names: ['Signature', 'Initials', 'Redaction', 'Date']

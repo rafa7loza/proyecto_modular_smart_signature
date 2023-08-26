@@ -1,0 +1,13 @@
+{
+  "hosts": 
+    [
+      {
+        "address": "34.31.7.2",
+        "runningPort": "3456"
+      },
+      {
+        "address": "34.31.7.2",
+        "runningPort": "4567"
+      }
+    ]
+}
