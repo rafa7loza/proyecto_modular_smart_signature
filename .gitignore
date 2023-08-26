@@ -1,0 +1,10 @@
+.DS_Store
+
+detection/__pycache__
+detection/models/yolov5
+detection/venv
+detection/secrets.json
+
+services/secrets.json
+
+/datasets
